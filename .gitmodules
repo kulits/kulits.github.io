@@ -1,0 +1,3 @@
+[submodule "vatic.js"]
+	path = vatic.js
+	url = https://github.com/kulits/vatic.js.git
